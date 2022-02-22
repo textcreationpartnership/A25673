@@ -1,0 +1,1128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Anti-weesils, a poem giving an account of some historical and argu-mental passages happening in the Lyon's Court.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25673</idno>
+            <idno type="STC">Wing A3516</idno>
+            <idno type="STC">ESTC R10067</idno>
+            <idno type="EEBO-CITATION">11672344</idno>
+            <idno type="OCLC">ocm 11672344</idno>
+            <idno type="VID">48056</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48056)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 524:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Anti-weesils, a poem giving an account of some historical and argu-mental passages happening in the Lyon's Court.</title>
+               </titleStmt>
+               <extent>[62] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Randal Taylor near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Answer to "The Weesils", an attack on Dr. Sherlock, ascribed to Thomas Brown. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherlock, William, 1641?-1707.</term>
+               <term>Brown, Thomas, 1663-1704.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48056:1"/>
+            <pb facs="tcp:48056:1" rendition="simple:additions"/>
+            <p>THE Anti-WEESILS.</p>
+            <p>A POEM. GIVING An Account of ſome Hiſtorical and Argu<g ref="char:EOLhyphen"/>mental Paſſages happening in the LYON'S Court.</p>
+            <q>
+               <l>Mark thoſe who dote on <hi>Arbitrary</hi> Power,</l>
+               <l>And you ſhall find 'em either hot-brain'd <hi>Youth,</hi>
+               </l>
+               <l>Or needy <hi>Bankrupts</hi> ſervile in their greatneſs,</l>
+               <l>And Slaves to ſome to Lord it o're the reſt.</l>
+               <bibl>Vid. <hi>Mr.</hi> Dryden<hi>'s Spaniſh Fryer.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall.</hi> 1691.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:48056:2" rendition="simple:additions"/>
+            <pb facs="tcp:48056:2"/>
+            <head>THE PREFACE.</head>
+            <p>ON reading the famed piece of Banter (for I can't call it a Poem) lately publiſhed againſt the Re<g ref="char:EOLhyphen"/>verend Doctor, I had perhaps different thoughts from moſt others on that Subject, and do ſtill believe that 'twill conduce more to his Honour than Diſgrace with any thinking Men; both becauſe it ſhows his Enemies Arguments are all spent, and their Ammunition done, when they come to charge him with ſuch Pot-gun weapons, and that they find 'tis im<g ref="char:EOLhyphen"/>poſſible fairly to anſwer what he aſſerts, becauſe they take the eaſier way of ridiculing it; that way which has been moſt blaſphemouſly uſed againſt the beſt of Books, and beſt of Beings; and which, without the Fatigue of thinking, tick<g ref="char:EOLhyphen"/>les a man out of an argument: for 'tis eaſie to imagine, if we once cou'd dreſs up even an Apoſtle in a Fools Coat, none would either believe or mind a word he ſays. 'Tis al<g ref="char:EOLhyphen"/>ſo an honour to the Doctor, that he has Perſons of ſuch Re<g ref="char:EOLhyphen"/>ligion and Morals, as this appears to be, for his Antagoniſts, who in the very fourth line laughs at Chriſtians expecting the
+<pb facs="tcp:48056:3"/>Reſurrection; who gives <hi>Preaching</hi> no better a Title than <hi>Bubbling Fools,</hi> and would perſwade us that Religion is good for nothing but to <hi>make the World Block-heads,</hi> though he being one of the more refined and wiſe ones, it ſeems has the happineſs to <hi>ſee through the Milſtone,</hi> though others can't.</p>
+            <p>Indeed, I can't imagine how any <hi>Engliſh-man</hi> can with patience read himſelf there called a <hi>Free-born Brute,</hi> or be pleaſed with the many palpable Reflections on the preſent <hi>Government;</hi> to have the <hi>taking the Oaths</hi> call'd no better a name than <hi>Perjury,</hi> and to be told that 'twas on<g ref="char:EOLhyphen"/>ly a <hi>politick Faction</hi> drove out the late King <hi>James;</hi> who, poor Prince was betrayed by his own Subjects—thô I fancy thoſe Honourable, and Noble, not to add <hi>Royal</hi> perſons, who left his Party, when they muſt either have left that or their Religion, won't think themſelves much oblig'd to him for the Name of <hi>Traytors.</hi> Juſt as handſome is his Inſinuation, that thoſe who yet <hi>ſtand out,</hi> do it for <hi>Conſcience,</hi> thoſe who come in, only for <hi>Pay;</hi> full as ci<g ref="char:EOLhyphen"/>vil as his calling the Doctor a <hi>wavering Brute,</hi> for his horrid Apoſtacy from King <hi>James.</hi>
+            </p>
+            <p>Let him after this pretend as long as he pleaſe, as he does in his <hi>Preface</hi> at the wrong end of his Book, (that it might be all ſurprizing,) that he has a <hi>Veneration for the Church of</hi> England; I ſuppoſe <hi>Dodwells</hi> Church, or the late Biſhop of <hi>Cheſter</hi>'s; whereas we muſt have more Faith than the Author has, and full as little <hi>knowledge,</hi> to believe he is <hi>a Church of England</hi> Man, who is not ſo much as a <hi>Chriſtian;</hi> of which Character, its notoriouſly
+<pb facs="tcp:48056:3"/>known are many of King <hi>James</hi>'s few Friends; that <hi>many who ſee what Blockheads Religion has made e'm</hi> in this Authors phraſe, and who are <hi>better known</hi> than they ſuſpect: Who have juſt as much <hi>Veneration</hi> for <hi>Almighty God,</hi> as this Gentleman for the preſent <hi>Mo<g ref="char:EOLhyphen"/>narchical Government of England,</hi> which here he pre<g ref="char:EOLhyphen"/>tends to flatter, though he dares not mention <hi>Their Gra<g ref="char:EOLhyphen"/>cious Majeſties,</hi> for fear, in his own phraſe, <hi>leſt the late Lyon ſhould return.</hi> And for the ſame Reaſon, ſince I find him very cautious and reſerv'd, I'll not ask the Gentleman what he means by thoſe <hi>admirable, thô plain Principles of the Church of England,</hi> which ſome Men, <hi>byaſs'd by Intereſt,</hi> wink at or forget.</p>
+            <p>For the <hi>Poem</hi> it ſelf, I have nothing to ſay to't, being ſuch a natur'd thing as will bear <hi>nothing.</hi> — Who can an<g ref="char:EOLhyphen"/>ſwer the loud <hi>Laughter</hi> of a Fool? or the unlucky <hi>Grin</hi> of that Creature that looks ſo like <hi>a Man?</hi> Full as wiſely would any one pretend to ridicule an <hi>Antick,</hi> or outmock a <hi>Scaramouch,</hi> all whoſe Wit lies in <hi>Impudence</hi> and <hi>Grimmace;</hi> in whoſe Company let's now let him alone to enjoy his <hi>ſweet ſelf</hi> as long as he pleaſes, though we poſ<g ref="char:EOLhyphen"/>ſibly may meet him agen before we part, and only obſerve this of the <hi>dreſs</hi> of his Poem, (for he ſhall ſtill think the <hi>Arguments</hi> on't unanſwerable,) that it lies obnoxious to all the Objections the ingenious Mr. <hi>Montague</hi> has made a<g ref="char:EOLhyphen"/>gainſt the <hi>Hind</hi> and <hi>Panther;</hi> that he ſhifts Scenes un<g ref="char:EOLhyphen"/>ſufferably, and makes his <hi>Weeſils</hi> excellently well acquaint<g ref="char:EOLhyphen"/>ed with <hi>Divinity, Politicks,</hi> or what elſe he pleaſes; and
+<pb facs="tcp:48056:4"/>yet in the very next moment ſets 'em a nibbling upon their old <hi>Cheeſe</hi> and <hi>Bacon.</hi>
+            </p>
+            <p>I ſhall ſay yet leſs of my own Poem, whereof 'twill be enough to tell the Reader, that I have endeavour'd to avoid this fault in it which I blame in the <hi>Weeſils,</hi> though there<g ref="char:EOLhyphen"/>by 'tis plain I loſe a great advantage, that 'tis a <hi>haſty thought</hi> of a few hours Writing; and that (if he'll pleaſe to believe me) he can't think much more meanly on't, than I do my Self. <hi>Farewell.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:48056:4"/>
+            <div type="part">
+               <head>The Anti-WEESILS. A POEM.</head>
+               <lg>
+                  <l>HAppy thoſe peaceful <hi>Lands,</hi> thrice happy they</l>
+                  <l>Propitious Heaven has freed from <hi>Beaſts of Prey!</hi>
+                  </l>
+                  <l>Where the rich <hi>fleecy Houſholds</hi> ſafely go,</l>
+                  <l>And graze all day, fearleſs of any Foe,</l>
+                  <l>Nor ſpoted <hi>Pard,</hi> nor nimble <hi>Tygar</hi> know.</l>
+                  <l>
+                     <hi>Pan</hi> guards their Folds, by no fell Wolf diſtreſt,</l>
+                  <l>Both Sheep and Shepherd lay them down to reſt.</l>
+               </lg>
+               <lg>
+                  <l>Not ſo of old rich <hi>Albion</hi>'s fertile Soyl,</l>
+                  <l>E're juſt ſeverity had purg'd the Iſle;</l>
+                  <l>A <hi>Waſt</hi> there was, its Arms out-ſtretching wide,</l>
+                  <l>
+                     <hi>Ardenna</hi> call'd, by Royal <hi>Severn</hi>'s ſide;</l>
+                  <l>Where, in deep diſmal <hi>Groves,</hi> untrod by Men,</l>
+                  <l>Coucht the <hi>Wild Beaſts</hi> in many a gloomy Den;</l>
+                  <l>The <hi>Kingly Lyon</hi> Lord and <hi>Sovereign</hi> there,</l>
+                  <l>The Fox, the Pard, the Tygar and the Bear.</l>
+               </lg>
+               <lg>
+                  <l>All in the midſt of the moſt ſecret ſhade,</l>
+                  <l>Cloſe in an unfrequented gloomy <hi>glade,</hi>
+                  </l>
+                  <l>The <hi>Sovereign</hi> kept his <hi>Court,</hi> but <hi>late</hi> his own,</l>
+                  <l>His <hi>dying Brother</hi> newly left the Throne,</l>
+                  <l>
+                     <hi>(Fairly or not, to Jove is only known.)</hi>
+                  </l>
+                  <l>From <hi>Caledonian</hi> Woods their Lineage came,</l>
+                  <l>Proud of their Anceſtors long purchas'd Fame:</l>
+                  <l>Two Ages paſt to <hi>warmer</hi> Worlds they run,</l>
+                  <l>And bask in <hi>Southern Brittains</hi> kinder Sun.</l>
+                  <l>Where the <hi>Wild Nations</hi> them their Lords confeſs,</l>
+                  <l>New robb'd by Fate of their <hi>lov'd Lyoneſs:</hi>
+                  </l>
+                  <l>E're ſince they held our <hi>Forreſts</hi> wide command,</l>
+                  <l>Now with a fix'd, now with a trembling Hand:</l>
+                  <l>Sometimes wou'd on their <hi>Free-born Subjects</hi> fall,</l>
+                  <l>Graſping too <hi>much</hi> they'd venture loſing <hi>all.</hi>
+                  </l>
+                  <l>This coſt a Life, the <hi>beſt of all their Blood,</hi>
+                  </l>
+                  <l>Torn by the furious <hi>Rabble</hi> of the Wood:</l>
+                  <pb n="8" facs="tcp:48056:5" rendition="simple:additions"/>
+                  <l>
+                     <hi>Two</hi> of whoſe hapleſs <hi>Race</hi> their Countrey chang'd,</l>
+                  <l>And long, far off, in <hi>Forreign Deſarts</hi> rang'd,</l>
+                  <l>'Till pittying <hi>Jove,</hi> when all their hope was paſt,</l>
+                  <l>To their own Realms reſtor'd 'em both at laſt;</l>
+                  <l>Where in <hi>ſoft Joys</hi> they quickly drown'd their Pain,</l>
+                  <l>And little leſs than ſhare an <hi>equal</hi> Reign:</l>
+                  <l>But <hi>Prodigies</hi> can never long remain:</l>
+                  <l>
+                     <hi>Two Suns are one too many for the Skyes,</hi>
+                  </l>
+                  <l>And <hi>that</hi> muſt ſet, that <hi>this</hi> more bright may riſe:</l>
+                  <l>His <hi>ſudden Fall</hi> was ne're well underſtood,</l>
+                  <l>He ſets, at leaſt in <hi>Clouds,</hi> if not in <hi>Blood.</hi>
+                  </l>
+                  <l>What <hi>Brutal Joy</hi> thro' all the <hi>Wild</hi> was ſhown,</l>
+                  <l>When next his <hi>Brother Lyon</hi> fill'd the Throne!</l>
+                  <l>The Beaſts get <hi>drunk</hi> to wiſh their Lord ſucceſs,</l>
+                  <l>What <hi>reeling Loyalty</hi> did they expreſs!</l>
+                  <l>Than <hi>Reſtauration Triumphs</hi> only leſs.</l>
+                  <l>Whilſt the <hi>Wiſe few</hi> walk unobſerved by,</l>
+                  <l>To ſome lone Covert haſt, and <hi>ſteal</hi> a ſigh.</l>
+                  <l>For they too well their Prince's <hi>Genius</hi> knew,</l>
+                  <l>Or lov'd the <hi>Old</hi> too well to wiſh a <hi>New:</hi>
+                  </l>
+                  <l>They knew his Inclinations harſh and <hi>curſt,</hi>
+                  </l>
+                  <l>As one had been by old <hi>Lyciſca</hi> nurſt;</l>
+                  <l>That with his <hi>Milk</hi> he ſuckt inveterate hate,</l>
+                  <l>And Malice deep againſt the <hi>Sylvan State;</hi>
+                  </l>
+                  <l>Enough they though to <hi>bear,</hi> too much to <hi>wiſh</hi> their Fete.</l>
+                  <l>Not ſo the giddy thoughtleſs multitude,</l>
+                  <l>Whoſe Joy's all <hi>muddy</hi> like themſelves and <hi>rude:</hi>
+                  </l>
+                  <l>Thus <hi>Jove</hi> was bleſt by every grateful <hi>Frog,</hi>
+                  </l>
+                  <l>When o're the <hi>Fans</hi> King <hi>Stork</hi> ſucceeds King <hi>Log:</hi>
+                  </l>
+                  <l>Their deep hoarſe Notes they to his Honour raiſe,</l>
+                  <l>And croak loud hollow Anthems in his Praiſe.</l>
+               </lg>
+               <lg>
+                  <l>Thus the <hi>New King</hi> of <hi>Ardens</hi> ancient Grove</l>
+                  <l>Is Crown'd, with all the Forreſts <hi>Fear</hi> or <hi>Love:</hi>
+                  </l>
+                  <l>The <hi>Muſes Birds</hi> themſelves, which ſeldom fail</l>
+                  <l>To build near Thrones, loud ſung their — <hi>Caeſar, Hail!</hi>
+                  </l>
+                  <l>The Brooks of diſtant <hi>Cam</hi> and <hi>Iſis</hi> vye,</l>
+                  <l>Which moſt ſhall pleaſe him with their Harmony.</l>
+                  <pb n="9" facs="tcp:48056:5" rendition="simple:additions"/>
+                  <l>Who with a ſurly pride the officious kindneſs <hi>bore,</hi>
+                  </l>
+                  <l>All was his due and they cou'd give no more,</l>
+                  <l>'Tis true, nor we his memory wou'd wrong,</l>
+                  <l>None but the Wolves cou'd pleaſe him with a ſong.</l>
+                  <l>Who flockt from old <hi>Jerne's ſacred</hi> Soil,</l>
+                  <l>And in full heards aſſault our trembling Iſle;</l>
+                  <l>From <hi>Graves,</hi> and half <hi>torn Carcaſſes</hi> they fled,</l>
+                  <l>From lone Church-yards among the mangled dead.</l>
+                  <l>Here a young Whelp comes ore, and there appears</l>
+                  <l>Some <hi>hoary Murderer</hi> of fifty years,</l>
+                  <l>Of thoſe who erſt <hi>Jerne</hi>'s Plains orepour'd,</l>
+                  <l>Husbands, and Wives, and Maids, and helpleſs Babes devour'd,</l>
+                  <l>And long before <hi>alone</hi> he fill'd the place</l>
+                  <l>The King had a <hi>ſtrange love</hi> for all their Race:</l>
+                  <l>A <hi>Sympathy</hi> ſo violent and ſtrong,</l>
+                  <l>That ſhou'd we not his ſpotleſs <hi>Mother</hi> wrong,</l>
+                  <l>Who knew no <hi>ſhame</hi> becauſe ſhe knew no <hi>ſin,</hi>
+                  </l>
+                  <l>We'd think his <hi>Sire</hi> of wild Sir <hi>Iſgrims</hi> kin,</l>
+                  <l>The very ſame the <hi>howl,</hi> the very ſame the <hi>grin.</hi>
+                  </l>
+                  <l>With theſe, when young, he'd always hunt and ſport,</l>
+                  <l>With theſe, when old, he fill'd his <hi>Royal Court;</hi>
+                  </l>
+                  <l>Ragged they came, with loud complaints and moans,</l>
+                  <l>No Coat to hide their Fleſh, no Fleſh to hide their Bones.</l>
+                  <l>Tho' ſoon they <hi>Battend</hi> here, for not a <hi>place</hi>
+                  </l>
+                  <l>But now is fill'd with ſome of <hi>Wolviſh</hi> race;</l>
+                  <l>How ſleek their Coat, how plump their ſide, how full their Face.</l>
+               </lg>
+               <lg>
+                  <l>This all the other <hi>Beaſts</hi> unkindly bore,</l>
+                  <l>Keep in their <hi>Dens,</hi> and fill the <hi>Court</hi> no more;</l>
+                  <l>Yet not ſo high as ſince were their reſentments flown,</l>
+                  <l>Becauſe their <hi>Liberty</hi> was ſtill their own;</l>
+                  <pb n="10" facs="tcp:48056:6"/>
+                  <l>Their Rights, by antient <hi>Foreſt-Laws</hi> ſecur'd</l>
+                  <l>Which had from immemorial <hi>times</hi> endur'd</l>
+                  <l>In mounds as firm as <hi>Soveraign Power</hi> immur'd:</l>
+                  <l>All yet injoy'd their own, by none oppreſt,</l>
+                  <l>Each in his <hi>native Den</hi> could ſafely reſt.</l>
+                  <l>Tho' this <hi>laſt bleſſing</hi> muſt not long remain,</l>
+                  <l>And every freeborn Subject's doom'd to wear the Chain:</l>
+                  <l>The manner thus — the Court its Toyls had ſet,</l>
+                  <l>And taken a young vigorous <hi>Lyonet;</hi>
+                  </l>
+                  <l>(To their late Soveraign born, who did <hi>compreſs</hi>
+                  </l>
+                  <l>In <hi>Forreign wilds</hi> a lovely Leopardeſs.)</l>
+                  <l>So like the Royal Race, ſo goodly grown,</l>
+                  <l>What Prince wou'd bluſh ſo fair a Son to own?</l>
+                  <l>Hopes of a Crown, and t'was a glorious <hi>prize</hi>
+                  </l>
+                  <l>Had ſeiz'd too <hi>ſoon</hi> on his unwary Eyes;</l>
+                  <l>Nor longer Forreign Courts he'll now endure,</l>
+                  <l>But ſowſes down on the deceitful <hi>Lure,</hi>
+                  </l>
+                  <l>And landing on the fatal Weſtern Coaſt,</l>
+                  <l>Was by his <hi>falſe Jackal</hi> betray'd and loſt.</l>
+               </lg>
+               <lg>
+                  <l>And now the uſeleſs Vizard is caſt by</l>
+                  <l>Which was before ſeen thro' with half an Eye,</l>
+                  <l>The <hi>Panther</hi> ſhows his <hi>Face,</hi> the Court begins</l>
+                  <l>To dare the Day, and boaſt unbluſhing Sins:</l>
+                  <l>What can a fairer happier juncture be</l>
+                  <l>Than a <hi>Rebellion</hi> cruſht to hatch a <hi>Tyranny?</hi>
+                  </l>
+                  <l>Leaſt Rebel <hi>Sheep</hi> ſhou'd harmleſs <hi>Wolves</hi> ſurprize,</l>
+                  <l>Or the young <hi>Lyon from the Dead ſhou'd riſe;</hi>
+                  </l>
+                  <l>A ſtanding Army muſt the Groves ſecure</l>
+                  <l>Of Bears, and Boars, and Wolves, a Heard impure.</l>
+                  <pb n="11" facs="tcp:48056:6"/>
+                  <l>Now they the old <hi>Grand Forreſt-Charter</hi> ſeize,</l>
+                  <l>And <hi>Liberties</hi> are only what they pleaſe:</l>
+                  <l>Thoſe are <hi>kind Thieves</hi> who half your Gold reſtore,</l>
+                  <l>You can't but thank 'em that they take no more.</l>
+                  <l>Some Beaſts, 'tis true, when <hi>tamed</hi> were freed again,</l>
+                  <l>But none beyond their <hi>Circle and their Chain:</hi>
+                  </l>
+                  <l>All were, without exceptions, <hi>teddered</hi> down,</l>
+                  <l>Tho' ſome had larger <hi>Plats</hi> to graze upon:</l>
+                  <l>A <hi>Peace</hi> indeed proclaim'd with ſhow of Grace,</l>
+                  <l>Tho' 'twas alone t' oblige the <hi>Wolviſh</hi> Race.</l>
+                  <l>The publick quiet can't too high be priz'd;</l>
+                  <l>Theſe <hi>ſnarling Maſtives</hi> muſt be ſacrific'd.</l>
+                  <l>Thoſe <hi>Shepherds</hi> who their Folds woul'd not betray,</l>
+                  <l>From <hi>Sheep and Folds</hi> at once were dragg'd away;</l>
+                  <l>Their Folds to Thieves, their Flocks to Wolves, a prey,</l>
+                  <l>In Dens and Darkneſs to expect their doom,</l>
+                  <l>And <hi>Goats and Swine</hi> exalted in their room.</l>
+               </lg>
+               <lg>
+                  <l>This was to much, yet this they ſuffer'd too,</l>
+                  <l>And now indeed they little elſe cou'd do;</l>
+                  <l>Tho' they beyond a <hi>Camels patience</hi> bore,</l>
+                  <l>The <hi>Paſſive Beaſts</hi> muſt ſtill prepare for more.</l>
+                  <l>Muſt they pretend to <hi>feel</hi> whoſe ſence was gon,</l>
+                  <l>Among their other <hi>Rights,</hi> who now muſt ſtill bear on?</l>
+                  <l>They <hi>laid on load</hi> as faſt as at the firſt,</l>
+                  <l>Nor muſt they <hi>kick</hi> it off altho' they <hi>burſt.</hi>
+                  </l>
+                  <l>Nor wou'd one Age ſuffice for their diſgrace,</l>
+                  <l>The <hi>Slave</hi> muſt be <hi>entail'd</hi> on all their Race.</l>
+                  <l>This <hi>Fate</hi> denys, but <hi>Fate</hi> in vain ſays nay,</l>
+                  <l>And Heaven, as well as Earth, the <hi>Lyon</hi> muſt obey.</l>
+                  <pb n="12" facs="tcp:48056:7"/>
+                  <l>Tho' hateful Age came haſtning on amain,</l>
+                  <l>And what Promiſcuous Loves had miſt to drain,</l>
+                  <l>Lickt the laſt drops of moiſture from each ſhrivling Vein,</l>
+                  <l>Yet did he not of the ſucceſs deſpair,</l>
+                  <l>And rather than have none, wou'd make ſome Wolf his <hi>Heir.</hi>
+                  </l>
+                  <l>Bleſt Heir, foretold by every dreaming Fowl,</l>
+                  <l>The long-liv'd Crow, and Sage Prophetick Owl,</l>
+                  <l>Who, e'er his Birth, deſcribed each matchleſs Grace,</l>
+                  <l>And knew each Line in his Majeſtick Face.</l>
+                  <l>The Lyoneſs conſents, a <hi>Whelp</hi> is found,</l>
+                  <l>Who all their moſt Luxuriant Wiſhes crown'd.</l>
+                  <l>'Twas ſafely to the Royal Den convey'd,</l>
+                  <l>And with vain Vows, ſhe crys,—<hi>Lucina aid!</hi>
+                  </l>
+                  <l>Miraculous Birth! No Grief nor Pangs ſucceed,</l>
+                  <l>By <hi>Proxy</hi> ſure, a Lyoneſs may breed.</l>
+                  <l>So <hi>ſound,</hi> ſo <hi>firm,</hi> ſo <hi>like</hi> the Royal Race,</l>
+                  <l>The World might <hi>ſpell</hi> his Father in his Face.</l>
+               </lg>
+               <lg>
+                  <l>VVen the <hi>laſt Stake,</hi> e'en <hi>hope</hi> it ſelf was gone,</l>
+                  <l>He muſt be a double Brute that ſtill bears on.</l>
+                  <l>The Forreſt ſent repeated Envoys o'er,</l>
+                  <l>And preſt for ſuccour at the <hi>Belgic</hi> ſhoar,</l>
+                  <l>VVhere they the bold <hi>Naſſovian</hi> Lyon find,</l>
+                  <l>Made for the Saviour of the <hi>Sylvan</hi> kind.</l>
+                  <l>From <hi>Britain</hi> he deduced his noble ſtem,</l>
+                  <l>
+                     <hi>Only not neareſt</hi> to the Diadem.</l>
+                  <l>Rich in well-purchas'd Fame, and high Renown,</l>
+                  <l>Fit for, below, and yet above a Crown:</l>
+                  <l>He left his ſweet repoſe, and calm receſs,</l>
+                  <l>And ſighing left his lovely Lyoneſs.</l>
+                  <l>Indues his Hide, dreadful with many a Scar,</l>
+                  <l>And many an <hi>Honeſt</hi> Mark, of many a Glorious War,</l>
+                  <l>When erſt with <hi>Gallic</hi> Wolves almoſt oppreſt,</l>
+                  <l>Whole Groves of Spears were broke againſt his ample Breaſt,</l>
+                  <pb n="13" facs="tcp:48056:7"/>
+                  <l>He ſhook 'em off, and with a furious bound.</l>
+                  <l>Leapt o'er the Toils, and ſcatter'd Fate around.</l>
+                  <l>Thus went he to glad <hi>Albions</hi> cluſter'd Shoar,</l>
+                  <l>And with himſelf wafted Salvation o'er.</l>
+                  <l>The Forreſt trembled at his Kingly roar,</l>
+                  <l>Whilſt all the Coward Wolves —</l>
+                  <l>Whom ev'n his Name did of their prey prevent,</l>
+                  <l>With blood-ſhot Eyes glared backward as they went.</l>
+                  <l>They ſpared his Arms, with fear already dead,</l>
+                  <l>
+                     <hi>Swift fled the amazed King, his Guards before him fled.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>So when the cheerful Harbinger of day,</l>
+                  <l>Claps his bright Wings, and warns the Shades away.</l>
+                  <l>The Birds obſcene, flie from the ghaſtful Light,</l>
+                  <l>And howling guilty Ghoſts ſink back to Conſcious Night.</l>
+               </lg>
+               <lg>
+                  <l>The <hi>Royal Signs,</hi> in haſty flight thrown by,</l>
+                  <l>Scepter and Crown, the Marks of Majeſty,</l>
+                  <l>A full convention of the Forreſt meet,</l>
+                  <l>And offer at their great Deliverer's Feet.</l>
+                  <l>
+                     <hi>This</hi> never was with greater merit worn,</l>
+                  <l>Nor <hi>that,</hi> with ſteddier Juſtice ever born.</l>
+                  <l>He lends 'em Light, nor does from theirs receive,</l>
+                  <l>They <hi>borrow</hi> better Glorys than they <hi>give.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But ſhou'd high <hi>Heaven</hi> it ſelſ a King provide,</l>
+                  <l>And drop him down from <hi>Jove</hi>'s Illuſtrious ſide,</l>
+                  <l>Palladian-Form, all wou'd not like him well,</l>
+                  <l>And ſome wou'd rather wiſh him ſent from <hi>Hell.</hi>
+                  </l>
+                  <l>Like theſe, a Diſcontented, Murm'ring Crowd,</l>
+                  <l>VVho dared not their Reſentments ſnarl aloud:</l>
+                  <pb n="14" facs="tcp:48056:8"/>
+                  <l>Nay, joyn'd at firſt ith' general Applauſe,</l>
+                  <l>To him who had retriev'd their Forreſt Laws,</l>
+                  <l>
+                     <hi>And pacify'd their Tails, and lickt their Frothy Jaws,</hi>
+                  </l>
+                  <l>Yet ſteal from Court, in Coverts to complain:</l>
+                  <l>They were indeed, unworthy ſuch a Reign.</l>
+                  <l>The Hound, the Aſs, the Badger, Goat, and Swine,</l>
+                  <l>Theſe gladly did the unlucky Monkey joyn,</l>
+                  <l>And ſome yet left o'th' Ancient Wolfiſh Line.</l>
+               </lg>
+               <lg>
+                  <l>The <hi>Hound,</hi> produc'd, 'tis thought, from mingled ſtrains,</l>
+                  <l>He had <hi>Iſgrims</hi> Blood, at leaſt in half his Veins.</l>
+                  <l>With him had oft, form ſome lone Vale, or Wood,</l>
+                  <l>By early Morn return'd, his Muzzle dipt in Blood.</l>
+                  <l>A Dog with Dogs, a Wolf whth Wolves wou'd be,</l>
+                  <l>Never before o'th' weakeſt ſide was he,</l>
+                  <l>Well verſt in all the Tricks of Curriſh Flattery:</l>
+                  <l>Oft welcome to the Maſtiffs ſplendid board,</l>
+                  <l>And while they flouriſh'd, treared like a Lord.</l>
+                  <l>But when the Lyon frown'd, and they declin'd,</l>
+                  <l>With all the holing Herd againſt 'em joyn'd.</l>
+                  <l>Oft he at Court wou'd humbly begging ſtand,</l>
+                  <l>As oft advanc'd to Ladys Lap and Hand.</l>
+                  <l>Nay, t' has by ſome, been in loud Whiſpers ſaid,</l>
+                  <l>He ſtaid not there, but crept into their Bed.</l>
+                  <l>Unnatural Crime! — Tho' I'd believe as ſoon,</l>
+                  <l>That the fair Sex ſhou'd doat on a <hi>Babboon;</hi>
+                  </l>
+                  <l>Tho 'ſcaped from many a Branch, his Fate holds faſt,</l>
+                  <l>He has ſtill an itching to be <hi>Hang'd</hi> at laft.</l>
+                  <l>Next him, and not unlike, the <hi>Badger</hi> came,</l>
+                  <l>So near their Form, their Species thought the ſame.</l>
+                  <l>His Fangs unmerciful, ſo curſt his ſpite,</l>
+                  <l>They never fail to meet, where e'er they bite,</l>
+                  <pb n="15" facs="tcp:48056:8"/>
+                  <l>The Soveraign gags him, when he can't aſſwage</l>
+                  <l>His madneſs — This the Cauſe of all his Rage.</l>
+                  <l>The <hi>Swine,</hi> foul Epicure; whoſe all deſire,</l>
+                  <l>To feaſt on Grains, and roll on Beds of Mire.</l>
+                  <l>The only Beaſt intemperate Draughts diſgrace,</l>
+                  <l>Degenerate from the ſober Brutal Race,</l>
+                  <l>And juſtly angry he to 'veloſt the ſport</l>
+                  <l>Of former Reigns — There's now no <hi>Mud</hi> at court,</l>
+                  <l>
+                     <hi>Levees and Couchees paſs without the Swines reſort.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For the ſame reaſon did the <hi>Goat</hi> forbear,</l>
+                  <l>To afford, as once, his Savory Preſence there:</l>
+                  <l>By <hi>Pan,</hi> and all his Kingred Gods, he ſwore,</l>
+                  <l>He'd never ſerve <hi>a Prince that wou'd not Whore.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Nor did the <hi>Monkey</hi> his Confederates fail,</l>
+                  <l>Tho' he in old Adventures, loſt his Tail;</l>
+                  <l>Since, tho' in other Reigns, a uſeful Tool,</l>
+                  <l>The Court's too buſie now to play the Fool.</l>
+               </lg>
+               <lg>
+                  <l>But how, i'th' Name of Dullneſs, came't to paſs,</l>
+                  <l>They to their Party won the plodding <hi>Aſs?</hi>
+                  </l>
+                  <l>Neither for Council, nor for Action made,</l>
+                  <l>So bold, he's even of his own Ears afraid;</l>
+                  <l>Grave Soul-leſs thing, to Slavery inur'd,</l>
+                  <l>He fears his Back ſhou'd be from <hi>Loads</hi> ſecur'd,</l>
+                  <l>Brays at the Court, becauſe no Burden's there,</l>
+                  <l>And thinks the ſweeteſt thing on Earth's to <hi>bear.</hi>
+                  </l>
+                  <l>A Cave there was, far in the wildeſt waſte,</l>
+                  <l>It's Mouth with luckleſs <hi>Ivy</hi> round embrac'd.</l>
+                  <pb n="16" facs="tcp:48056:9"/>
+                  <l>Which Fame reports, no Mortal Foot invades,</l>
+                  <l>But <hi>reſtleſs</hi> Sprights, and <hi>diſcontented</hi> Shades,</l>
+                  <l>Or, drawn by Dragons thro' the mirkſome Air,</l>
+                  <l>
+                     <hi>Canida</hi> foul, to keep her <hi>Sabboths</hi> there;</l>
+                  <l>With many a ſecret Charms, forbidden ſound,</l>
+                  <l>Calling the ſhackled Daemons from the ground,</l>
+                  <l>By fearful Traveller ſhunn'd, who near it trace,</l>
+                  <l>Loud Shrieks, and hollow Groans oft ecchoing from the place,</l>
+                  <l>Yet meet theſe diſcontented Murmurers there,</l>
+                  <l>The fitteſt Court for Miſchief and Deſpair.</l>
+                  <l>Grinding their Teeth, they here conſult in vain,</l>
+                  <l>How the old Lyon might his Throne regain,</l>
+                  <l>And fill the Court again with all his Wolviſh Train.</l>
+                  <l>Clearly foreſeen by th' Sage <hi>Prophetick Aſs,</hi>
+                  </l>
+                  <l>
+                     <hi>Expecting what will never come to paſs.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Here, while the reſt diſcourſe their grand concern,</l>
+                  <l>The <hi>Monkey</hi>'s ſent abroad ſome News to learn,</l>
+                  <l>Where both we'll leave —</l>
+                  <l>And, Ah! That it were ſuch as theſe <hi>alone,</hi>
+                  </l>
+                  <l>Did the new Soveraigns happy Sway diſown!</l>
+                  <l>O Grief! O Shame! That others won't come in!</l>
+                  <l>Only <hi>Miſtaken Loyalty</hi> their Sin.</l>
+                  <l>They pay the <hi>Belgian Lyon</hi> juſt eſteem,</l>
+                  <l>And own the Forreſt, owe their <hi>Lives</hi> to him;</l>
+                  <l>Wiſh they cou'd give him more, and yet be <hi>true,</hi>
+                  </l>
+                  <l>But their <hi>Allegiance</hi> think to their old Soveraign due.</l>
+               </lg>
+               <lg>
+                  <l>Of theſe ſome <hi>Maſtiffs</hi> were, who whilom ſtood</l>
+                  <l>Ready for their dear Flocks to looſe their Blood.</l>
+                  <pb n="9" facs="tcp:48056:9"/>
+                  <l>For theſe undaunted Bravery had ſhown,</l>
+                  <l>To ſave <hi>their</hi> Liberties they loſt their <hi>own.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>With theſe a <hi>Generous Steed</hi> in Friendſhip ty'd,</l>
+                  <l>For the <hi>ſame Cauſe</hi> in fierceſt Battle try'd,</l>
+                  <l>From the <hi>new Sovereign</hi> the <hi>ſame Fears</hi> divide.</l>
+                  <l>How did the <hi>Wolfiſh Crew</hi> rejoyce the while,</l>
+                  <l>And ſpite of their Misfortunes <hi>grin'd a Smile.</hi>
+                  </l>
+                  <l>Miſtaken Malice thus it ſelf to pleaſe,</l>
+                  <l>Tho none ſo <hi>near,</hi> eyt none ſo far from <hi>theſe;</hi>
+                  </l>
+                  <l>
+                     <hi>They</hi> wiſht the Old Lion back, <hi>he</hi> pray'd to <hi>Jove</hi>
+                  </l>
+                  <l>So great a <hi>Curſe</hi> from <hi>Albion</hi> to remove.</l>
+                  <l>The Chryſtal Streams that drench the thirſty Land,</l>
+                  <l>(Miraculous Streams, they flow'd at <hi>Pan</hi>'s Command)</l>
+                  <l>Ungrate they ſcorn'd, and gazing from the Brink,</l>
+                  <l>Or <hi>troubling</hi> with their Feet, refus'd to drink:</l>
+                  <l>
+                     <hi>He,</hi> like the thirſty <hi>Hart,</hi> compell'd to go</l>
+                  <l>From Horns and Hounds, and <hi>winged Deaths</hi> below,</l>
+                  <l>To ſome old hoary Mountain, vaſt and high,</l>
+                  <l>Whoſe Shoulders, <hi>Atlas</hi>-like, ſupport the Sky;</l>
+                  <l>Looks from the Brim, whoſe diſtant Proſpect yields</l>
+                  <l>Fair Brooks, Sweet Groves, <hi>ſafe</hi> ever-ſmiling Fields,</l>
+                  <l>Looks down with <hi>longing Eyes</hi> views all around,</l>
+                  <l>But ah! the Leap's too large, he cannot reach the ground.</l>
+                  <l>
+                     <hi>They</hi> leave the Light, in ſecret Caves to vent</l>
+                  <l>
+                     <hi>Their</hi> Rancor deep, and feſtring diſcontent,</l>
+                  <l>
+                     <hi>He</hi> open Walks, his Vertue his Defence,</l>
+                  <l>
+                     <hi>What need of Coverts where is Innocence?</hi>
+                  </l>
+                  <l>Argu'd, diſcours'd to gain his doubtful Mind</l>
+                  <l>That Satisfaction yet it could not find;</l>
+                  <l>The greateſt Favourites of the <hi>new Sovereign</hi>'s Court,</l>
+                  <l>To his not ſeldom gladly did refort</l>
+                  <pb n="10" facs="tcp:48056:10"/>
+                  <l>Who fain would give what he ſo much did need,</l>
+                  <l>They the <hi>Yong Lion</hi> lov'd, yet lov'd the <hi>Steed.</hi>
+                  </l>
+                  <l>Of theſe an aged <hi>Hart</hi> for Worth prefere'd,</l>
+                  <l>
+                     <hi>Who ſixty Summers now had rul'd the Herd.</hi>
+                  </l>
+                  <l>Aged and Wiſe, than him none better knew,</l>
+                  <l>Where the ſharp <hi>Dittany,</hi> and <hi>Jove</hi>'s own <hi>Moly</hi> grew;</l>
+                  <l>Againſt bleak <hi>Storms</hi> and Rain, the ſureſt <hi>Fence,</hi>
+                  </l>
+                  <l>Where <hi>Serpents</hi> lurk, and how to drive 'em thence.</l>
+                  <l>A pleaſant Vale there was, with Woods embrac'd,</l>
+                  <l>With purling Streams, and Riv'lets interlac'd,</l>
+                  <l>Where oft ſweet <hi>Zephyr</hi> to his <hi>Chloris</hi> brings</l>
+                  <l>
+                     <hi>Panchean</hi> Odours on his Balmy Wings:</l>
+                  <l>Not far from Cows, where wont the Steed to paſs</l>
+                  <l>His thoughtful hours, revolving on the Graſs,</l>
+                  <l>Him here he meets —</l>
+                  <l>Neither unwelcom, nor perhaps unſent,</l>
+                  <l>And preſs with Kingneſs and with Argument;</l>
+                  <l>(For rarely Reaſon's Darts ſucceſsleſs prove,</l>
+                  <l>When edg'd with <hi>Friendſhip,</hi> &amp; when wing'd with <hi>Love.</hi>)</l>
+                  <l>He entertain'd him with a chearful Face,</l>
+                  <l>And did his Offer willingly embrace:</l>
+                  <l>By a ſmall <hi>Hilleck</hi> with thick Oſiers crown'd</l>
+                  <l>They couch'd 'em ſoft upon the verdant Ground;</l>
+                  <l>Near a fair Brook, which gently murmuring ran,</l>
+                  <l>Where ſoon the kind <hi>Adviſer</hi> thus began.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="1" facs="tcp:48056:10"/>
+               <head>THE Anti-Weeſils.</head>
+               <head type="sub">PART II.</head>
+               <lg>
+                  <l>So may great <hi>Neptune</hi> ever grant increaſe</l>
+                  <l>Of happy Years, and long unenvy'd Peace,</l>
+                  <l>So kind <hi>Apollo</hi> your loſt <hi>Health</hi> reſtore,</l>
+                  <l>And hardly love his own <hi>wing'd Courſer</hi> more;</l>
+                  <l>As I deſign your Happineſs; as you</l>
+                  <l>Believe my kind Intentions juſt and true.</l>
+               </lg>
+               <lg>
+                  <l>But ſay, by all our ancient Friendſhip, ſay</l>
+                  <l>So long what makes you from the <hi>Pallace</hi> ſtray?</l>
+                  <l>Why never yet did you at <hi>Court</hi> appear?</l>
+                  <l>And why this cloſe retirement holds you here?</l>
+               </lg>
+               <pb n="12" facs="tcp:48056:11"/>
+               <lg>
+                  <l>Nor ſullen Malice is't, nor vain Deſire</l>
+                  <l>Of Rich <hi>Capariſons,</hi> or mounting higher,</l>
+                  <l>Has kept me thence, replies the generous <hi>Steed,</hi>
+                  </l>
+                  <l>Nor this I <hi>have,</hi> nor thoſe I <hi>ask</hi> or <hi>need:</hi>
+                  </l>
+                  <l>Let the proud <hi>Mule</hi> on golden Trappings doat,</l>
+                  <l>Embroidered deep to hide his ragged Coat;</l>
+                  <l>Theſe Plains afford enough, and when they're gon,</l>
+                  <l>Worſt hap that may, the <hi>Common's</hi> ſtill my own:</l>
+                  <l>But to be free, and tell you in a Word,</l>
+                  <l>
+                     <hi>Allegiance</hi> to my laſt unhappy Lord</l>
+                  <l>Still chains me here, and holds my Captive Mind</l>
+                  <l>Stronger than Links of Adamant can bind;</l>
+                  <l>That <hi>Gordion Knot</hi> I now almoſt deſpair</l>
+                  <l>My ſelf to <hi>unty,</hi> and leſs to <hi>break</hi> it dare,</l>
+                  <l>Tho either ſoon would make me free as air.</l>
+               </lg>
+               <lg>
+                  <l>If that be all, rejoyn'd the <hi>Hart,</hi> you're free,</l>
+                  <l>Truſt your own Eyes, unleſs amiſs they ſee,</l>
+                  <l>You are long ſince at perfect Liberty.</l>
+                  <l>Thoſe fatal Links whereof you thus complain,</l>
+                  <l>Are only an Imaginary Chain:</l>
+                  <l>Did not th' <hi>Old Lion</hi> with enraged Claws</l>
+                  <l>Rend <hi>that</hi> at once, and all the <hi>Foreſt Laws?</hi>
+                  </l>
+                  <l>Level'd each Fence, and every ancient Hold,</l>
+                  <l>And <hi>Gariſon'd</hi> with Wolves each trembling Fold;</l>
+                  <l>The faithful <hi>Maſtives</hi> too were dragg'd away</l>
+                  <l>From their lov'd <hi>Folds</hi> at once, and chearful <hi>Day,</hi>
+                  </l>
+                  <l>And in the <hi>Royal Dungeon</hi> Fetter'd lay.</l>
+                  <l>And worſe than all, curſt <hi>Iſgrim's</hi> Whelp deſign'd,</l>
+                  <l>
+                     <hi>Poſterity</hi> as well as us to blind,</l>
+                  <l>To fill the <hi>Throne,</hi> and Lord it o're the Sylvian kind.</l>
+                  <pb n="13" facs="tcp:48056:11"/>
+                  <l>Was ever <hi>ſtupid Goodneſs</hi> more abus'd,</l>
+                  <l>So much we <hi>gave,</hi> he thought we'd nothing have <hi>refus'd.</hi>
+                  </l>
+                  <l>Of ſuch Succeſs may ne're ſuch Maſters fail,</l>
+                  <l>As he who ſent the <hi>Dog to fetch his Tail.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Of Love repeat the Story, quoth the <hi>Steed,</hi>
+                  </l>
+                  <l>The courteous <hi>Hart</hi> conſenting, did proceed.</l>
+               </lg>
+               <lg>
+                  <l>A <hi>Yeoman</hi> once near <hi>Arden</hi> was poſſeſs'd</l>
+                  <l>Of three fair Farms, <hi>and liv'd upon the beſt;</hi>
+                  </l>
+                  <l>In all his Vertues liſt, (not over-large)</l>
+                  <l>Too much <hi>good Nature</hi> ne're was laid t'his charge;</l>
+                  <l>His Servants he'd forgive, when firſt he'd <hi>bang'd</hi> 'em,</l>
+                  <l>And pardon all Offenders, when h'had <hi>hang'd</hi> 'em.</l>
+                  <l>A <hi>Dog</hi> he had, with dreadful Teeth and Paws,</l>
+                  <l>Who right or wrong would fight his Maſters Cauſe;</l>
+                  <l>True <hi>Spaniel Breed,</hi> did thoſe that beat him <hi>love;</hi>
+                  </l>
+                  <l>He was a right <hi>old Dog</hi> at Stick or Glove;</l>
+                  <l>To run, to <hi>fetch and carry,</hi> or ſeek out,</l>
+                  <l>To ſwim or dive, or range the Fields about;</l>
+                  <l>Nimble as ever Juglers <hi>Dog</hi> was ſeen,</l>
+                  <l>And would as faſt come <hi>o're for King and Queen:</hi>
+                  </l>
+                  <l>Beſides an Houſe-dog true— Heavens! how he'd roar,</l>
+                  <l>If Friend or Foe came near his Maſters <hi>Door?</hi>
+                  </l>
+                  <l>The more ungrateful he ſuch Faith t'abuſe,</l>
+                  <l>So tame, ſo true a <hi>Slave,</hi> ſo ill to uſe.</l>
+                  <l>It chanc'd as on a day they went abroad,</l>
+                  <l>His <hi>Maſter</hi> met ſome Friends upon the <hi>Road.</hi>
+                  </l>
+                  <l>Or <hi>Friends</hi> they were, or ſuch at leaſt they ſeem,</l>
+                  <l>Tho more 'tis thought, they lov'd his <hi>Flocks</hi> than him;</l>
+                  <l>For this the <hi>Dog</hi> they hate, whoſe watchful Cry</l>
+                  <l>At midnight oft reveal'd when <hi>Theeves</hi> were nigh,</l>
+                  <pb n="14" facs="tcp:48056:12"/>
+                  <l>And ask his <hi>Maſter</hi> why the Cur he'd keep,</l>
+                  <l>For nothing fit but <hi>worrying</hi> harmleſs Sheep.</l>
+               </lg>
+               <lg>
+                  <l>Friends, your miſtaken Gueſs, ſays he, is loſt;</l>
+                  <l>Then his <hi>good Qualities</hi> begins to boaſt:</l>
+                  <l>The cheif, that he might <hi>kick him</hi> like a Ball,</l>
+                  <l>Yet durſt he not refuſe his Beck or Call;</l>
+                  <l>To a revengeful <hi>Snap</hi> did ne're incline,</l>
+                  <l>His worſt Reſentments were a gentle <hi>whine.</hi>
+                  </l>
+                  <l>But I'll convince you all beyond diſpute</l>
+                  <l>My Power and his Subjection's <hi>abſolute.</hi>
+                  </l>
+                  <l>His <hi>Hanger</hi> drawn, he with a griſly Wound</l>
+                  <l>
+                     <hi>Cuts off his Tail,</hi> and throws it on the ground;</l>
+                  <l>Then, thinking <hi>Spaniel-Love</hi> would ſtill prevail,</l>
+                  <l>He gives the Word—<hi>There</hi> Fray, <hi>go fetch thy Tail!</hi>
+                  </l>
+                  <l>Anger, and Pain, and Shame at once Surprize,</l>
+                  <l>The wounded <hi>Cur,</hi> he rolls his bloody Eyes,</l>
+                  <l>And ſcarce forbears, but at their Throats he flies.</l>
+                  <l>How're no more with ſuch a Lord will ſtay,</l>
+                  <l>But at the next <hi>Croſs-road</hi> runs quite away.</l>
+                  <l>Now let his Maſter walk from <hi>France</hi> to <hi>Spain,</hi>
+                  </l>
+                  <l>He'll never ſuch a Spaniel find again;</l>
+                  <l>Who if he e're returns from whence he fled;</l>
+                  <l>Will give 'em leave after his <hi>Tail</hi> to ſend his <hi>Head.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The <hi>ſober Steed</hi> kept Countenance a while,</l>
+                  <l>But at the Stories end <hi>indulg'd</hi> a Smile;</l>
+                  <l>Then anſwer'd thus—The Moral I confeſs</l>
+                  <l>Is but too plain for any one to gueſs,</l>
+                  <l>As clear our Patience has <hi>too far</hi> been try'd,</l>
+                  <l>And what vvas felt, in vain would be deny'd;</l>
+                  <pb n="15" facs="tcp:48056:12"/>
+                  <l>That <hi>Right or Wrong</hi> no longer were obſerved,</l>
+                  <l>Nor <hi>Property,</hi> nor <hi>Oaths,</hi> nor <hi>Laws</hi> preſerv'd:</l>
+                  <l>That the <hi>Old Lion</hi> by his <hi>Wolves</hi> miſted,</l>
+                  <l>Reſolv'd on all our Liberties to tread;</l>
+                  <l>Reſolv'd our Spacious <hi>Foreſt</hi> to enſlave,</l>
+                  <l>And <hi>took</hi> thoſe Charters which he never <hi>gave.</hi>
+                  </l>
+                  <l>But is not <hi>here</hi> Obedience more Divine?</l>
+                  <l>If he has broke his Oaths, muſt I break mine?</l>
+                  <l>No need, return'd the <hi>Hart,</hi> 'tis <hi>loos'd</hi> before,</l>
+                  <l>The Chain's unlink'd, and holds you now no more.</l>
+                  <l>He has <hi>his End</hi> unty'd, and ſets you free,</l>
+                  <l>VVou'd you be won to uſe your Liberty?</l>
+                  <l>Nor with ſuch <hi>airy Chains</hi> your Conſcience bind</l>
+                  <l>And drag an uſeleſs Load of <hi>Links</hi> behind.</l>
+               </lg>
+               <lg>
+                  <l>I by your Judgment might perhaps abide</l>
+                  <l>Did any <hi>Foreſt Law</hi> the Caſe decide,</l>
+                  <l>But this I ne're could ſee, the <hi>Steed</hi> reply'd.</l>
+                  <l>To this the <hi>Hart</hi>— Tho ſuch there once might be,</l>
+                  <l>Expect not now thoſe <hi>Sacred Rolls</hi> to ſee,</l>
+                  <l>Deſtroy'd long ſince by <hi>wolfiſh Policy.</hi>
+                  </l>
+                  <l>Yet Footſteps of a <hi>Contract</hi> ſtill remain,</l>
+                  <l>Nor ſure are our <hi>Conſents yet askt</hi> in vain,</l>
+                  <l>The firſt glad day of each new Sovereigns Reigh:</l>
+                  <l>And Contracts faſtned with a mutual Oath</l>
+                  <l>Have mutual Bands, whoe're <hi>breaks one breaks both.</hi>
+                  </l>
+                  <l>If his <hi>Condition</hi> bee'nt therein declar'd,</l>
+                  <l>'Tis ſo invidious, it might well be ſpar'd;</l>
+                  <l>But Reaſon wills it ſhould be ſtill imply'd,</l>
+                  <l>As 'tis betwixt the Bridegroom and his Bride.</l>
+                  <pb n="16" facs="tcp:48056:13"/>
+                  <l>VVhat <hi>Reaſon</hi> dictates none can diſapprove?</l>
+                  <l>The Laws of Reaſon are the Laws of <hi>Jove,</hi>
+                  </l>
+                  <l>VVho gave the Kingly Lion Sovereign Sway,</l>
+                  <l>Obliging all the <hi>Foreſt</hi> to <hi>obey;</hi>
+                  </l>
+                  <l>For what but all the furry Nations Good,</l>
+                  <l>Not that he ſtill ſhould revel in their Spoils and Blood.</l>
+                  <l>Their dear-bought Prey by Force and Rapine ſeize,</l>
+                  <l>And by his <hi>Lawleſs Luſt</hi> do what he pleaſe,</l>
+                  <l>For our Defence, and not Deſtruction ſent:</l>
+                  <l>
+                     <hi>Protection</hi> is the end of <hi>Government,</hi>
+                  </l>
+                  <l>The Reaſon why o're <hi>many, one</hi> prevails;</l>
+                  <l>And when that Ground-work ſinks, the Superſtructure fails.</l>
+                  <l>Better the <hi>General</hi> than his <hi>Army</hi> fall,</l>
+                  <l>Tho <hi>more</hi> than <hi>one</hi> he be, he's leſs than <hi>All.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>All this I grant, might <hi>Reaſon</hi> be the Rule;</l>
+                  <l>But here, alas! we leave her <hi>humble School.</hi>
+                  </l>
+                  <l>The <hi>Steed</hi> rejoyn'd— <hi>Pan</hi>'s Followers muſt aſpire</l>
+                  <l>To ſomething vaſtly more ſublime and higher.</l>
+                  <l>Tho Reaſon Light in <hi>common walks</hi> ſupply,</l>
+                  <l>Tis ſometimes Reaſon Reaſon to deny.</l>
+                  <l>I'd Sacrifice my ſelf at <hi>Pan's</hi> Commands,</l>
+                  <l>And who can <hi>ſtrike</hi> when he has ty'd their Hands?</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>That Pan</hi> has free'd 'em now, the <hi>Hart</hi> rejoyn'd,</l>
+                  <l>And who dares <hi>knit</hi> what he'll himſelf <hi>unbind?</hi>
+                  </l>
+                  <l>From <hi>Pan</hi> at firſt, 'tis true, all <hi>Power</hi> did riſe,</l>
+                  <l>
+                     <hi>Laws</hi> are the meaſures of its <hi>Exerciſe;</hi>
+                  </l>
+                  <l>Theſe our Obedience muſt <hi>direct</hi> alone,</l>
+                  <l>Theſe bid ſubmit to him that fill the <hi>Throne.</hi>
+                  </l>
+                  <l>But theſe ſtrange Doctrins ſure, reply'd the <hi>Steed,</hi>
+                  </l>
+                  <l>VVill <hi>hallow Villany</hi> if it ſucceed.</l>
+                  <pb n="9" facs="tcp:48056:13"/>
+                  <l>Falſe <hi>Robbers</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>ſurpers</hi> will defend,</l>
+                  <l>Nay ev'n the <hi>Titans</hi> too, ſhou'd they attend,</l>
+                  <l>And <hi>Jove</hi>'s own <hi>Diadem</hi> from his ſhoulders rend.</l>
+               </lg>
+               <lg>
+                  <l>High Heav'ns <hi>Decree</hi> nought of <hi>Injuſtice</hi> knows,</l>
+                  <l>And what it does not <hi>will,</hi> it may <hi>diſpoſe,</hi>
+                  </l>
+                  <l>Replys the Hart— But tho' we cannot ſee</l>
+                  <l>Into the <hi>Councils</hi> of the Deity,</l>
+                  <l>By the <hi>Event</hi> at leaſt they're underſtood,</l>
+                  <l>Guided by that great <hi>Law,</hi> the <hi>Publick Good.</hi>
+                  </l>
+                  <l>To that Aſylum <hi>Robbers</hi> cannot fly,</l>
+                  <l>We juſtly them <hi>reſiſt,</hi> they juſtly die;</l>
+                  <l>As juſtly we <hi>
+                        <g ref="char:V">Ʋ</g>ſurpers</hi> may diſown,</l>
+                  <l>Till ſettled by <hi>Conſent,</hi> by <hi>Law</hi> ſecur'd i'th' Throne.</l>
+                  <l>Thoſe <hi>Sacred Beaſts</hi> no other Title knew,</l>
+                  <l>Who all the World ot their Obedience drew.</l>
+                  <l>They <hi>Rul'd</hi> at firſt, becauſe they <hi>overcame,</hi>
+                  </l>
+                  <l>And willing Nations <hi>yielded</hi> to the ſame:</l>
+                  <l>What ſettled elſe the <hi>Goat,</hi> the <hi>Bear,</hi> the <hi>Ram?</hi>
+                  </l>
+                  <l>What all the four, whoſe ſway was ſtretcht ſo wide,</l>
+                  <l>And every <hi>Kingdom</hi> in the Earth beſide?</l>
+                  <l>But thanks to <hi>Jove,</hi> our caſe is much more fair,</l>
+                  <l>The <hi>vacant Throne</hi> is fill'd by the <hi>immediate Heir,</hi>
+                  </l>
+                  <l>Who to th' <hi>young Lion</hi> yields the better ſhare.</l>
+                  <l>To all the <hi>Forreſt</hi> who ſuch Love had ſhown,</l>
+                  <l>Such <hi>Valour</hi> for <hi>her Title</hi> and <hi>his own,</hi>
+                  </l>
+                  <l>Such <hi>Mercy</hi> as muſt melt and conquer quite,</l>
+                  <l>All but a <hi>Devil</hi> or a <hi>Jacobite.</hi>
+                  </l>
+                  <l>Who clear'd the <hi>Wolves</hi> from <hi>Brittains</hi> peſter'd Shore,</l>
+                  <l>We hear 'em howl their <hi>Veſpers</hi> here no more;</l>
+                  <l>Whoſe <hi>Whelps</hi> did all our Sacred Groves profance,</l>
+                  <l>Nor ſpar'd the Temples of immortal <hi>Pan.</hi>
+                  </l>
+                  <l>Strong Arguments for the <hi>young Lion</hi> move</l>
+                  <l>Honour, Religion, Gratitude and Love.</l>
+                  <l>Return'd the Steed, the chiefeſt I muſt own</l>
+                  <l>Our <hi>Altars</hi> had long ſince been <hi>overthrown,</hi>
+                  </l>
+                  <l>Had he not propt 'em. But ſince you began,</l>
+                  <l>This once yet more I'll mention <hi>mighty Pan,</hi>
+                  </l>
+                  <pb n="10" facs="tcp:48056:14"/>
+                  <l>Who will his <hi>Pow'r,</hi> who will his <hi>Prieſts</hi> believe,</l>
+                  <l>Or to their <hi>Oracles</hi> juſt Reverence give;</l>
+                  <l>If as the <hi>Wind</hi> their <hi>Conſcience</hi> changes ſo,</l>
+                  <l>If <hi>hot</hi> and <hi>cold</hi> with the ſame <hi>Breach</hi> they blow,</l>
+                  <l>If thus their <hi>practice</hi> give their <hi>words</hi> the Lie,</l>
+                  <l>If <hi>Oaths</hi> they take, and <hi>Oaths</hi> again deny?</l>
+               </lg>
+               <lg>
+                  <l>Ev'n Pan himſelf we <hi>hardly</hi> cou'd defend</l>
+                  <l>If we all <hi>change</hi> ſhould raſhly diſcommend</l>
+                  <l>The Hart rejoins, tho' thro' <hi>falſe Lights</hi> we ſee,</l>
+                  <l>And think <hi>he changes</hi> when 'tis only <hi>we:</hi>
+                  </l>
+                  <l>Thus ſhou'd his Followers act, the way he has ſhown,</l>
+                  <l>Tho' after all 'tis no diſgrace to own</l>
+                  <l>
+                     <hi>Immortal</hi> is <hi>immutable</hi> alone.</l>
+                  <l>That <hi>Change</hi> we may's by all the World confeſt,</l>
+                  <l>The queſtion's only whether <hi>'tis for th' beſt?</hi>
+                  </l>
+                  <l>And here 'tis plain, for ſhou'd we ſtill teach on</l>
+                  <l>
+                     <hi>Allegiance</hi> due when the <hi>old Soveraign</hi>'s gone;</l>
+                  <l>No Hope, no Remedy, but all muſt bear</l>
+                  <l>Such Miſeries as drive 'em to <hi>deſpair;</hi>
+                  </l>
+                  <l>Nay e'en <hi>refuſe Salvation</hi> when it came,</l>
+                  <l>And preſs all this in <hi>Pans adored Name;</hi>
+                  </l>
+                  <l>How ſoon wou'd then the Irreligious Crew</l>
+                  <l>Conclude what was not <hi>Good</hi> could ne're be <hi>true,</hi>
+                  </l>
+                  <l>And laugh aloud at once at <hi>Pan and you?</hi>
+                  </l>
+                  <l>
+                     <hi>Revenge</hi> ſhou'd rather to the <hi>Fiends</hi> be given,</l>
+                  <l>For <hi>Mercy</hi> is the <hi>Darling Name</hi> of Heav'n;</l>
+                  <l>Let's then deſpiſe the <hi>Rabble</hi>'s rude complaints,</l>
+                  <l>There wou'd be <hi>Atheiſts</hi> tho' all <hi>Prieſts</hi> were <hi>Saints.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>One heavy <hi>prejudice,</hi> the <hi>Steed</hi> rejoin'd</l>
+                  <l>Hangs with <hi>dead weight</hi> on my <hi>emerging</hi> mind.</l>
+                  <l>I know not how to think this Doctrine true,</l>
+                  <l>To me it looks ſo <hi>ſingular</hi> and <hi>new;</hi>
+                  </l>
+                  <l>Was't ever in the Forreſt taught before?</l>
+                  <l>Show me but that, and I deſire no more.</l>
+                  <l>Then that you're ours I now no longer fear,</l>
+                  <l>Replies the Hart— See what you ask is here!</l>
+                  <pb n="11" facs="tcp:48056:14"/>
+                  <l>With that unfolds a Scroul, whoſe Date did ſhow</l>
+                  <l>It had been Writ at leaſt Five Reigns ago.</l>
+                  <l>When firſt the Royal <hi>Caledonian</hi> Line</l>
+                  <l>Forſook cold <hi>Albany,</hi> and paſs't the <hi>Tyne,</hi>
+                  </l>
+                  <l>In Concourſe of the Furry Race decreed,</l>
+                  <l>And by concurring Suffrages agreed,</l>
+                  <l>Whence what he urg'd did plainly taught appear</l>
+                  <l>Beyond Objections evident and clear.</l>
+                  <l>I yield, I yield, the chearful Steed reply'd</l>
+                  <l>And am henceforth of yours and Reaſons ſide.</l>
+                  <l>This Hour I'll to the Court— be you my Guide.</l>
+                  <l>Gladly he the wiſht Office did embrace,</l>
+                  <l>For now indeed 'twas time to leave the place.</l>
+                  <l>Since the fair Riſing Moon bright Silver Beams</l>
+                  <l>Began to Gild the ſoftly curling Streams;</l>
+                  <l>The Bear around his ſhining Stake did rome,</l>
+                  <l>And lengthning Shadows becken'd Shepherds Home.</l>
+               </lg>
+               <trailer>End of the Second Part.</trailer>
+            </div>
+            <div n="3" type="part">
+               <pb n="12" facs="tcp:48056:15"/>
+               <head>PART III.</head>
+               <lg>
+                  <l>WHen Fame to Court did theſe Glad-tydings bear,</l>
+                  <l>'Tis quickly gueſs't if they were welcom there.</l>
+                  <l>Welcom as the two Friends, who cloſing their Debate,</l>
+                  <l>Enter'd at once the Royal Palace gate;</l>
+                  <l>The Soveraign ſaw, and nearer bid proceed,</l>
+                  <l>Then ſtretcht his Scepter to the Convert Steed,</l>
+                  <l>And bids his willing Officers reſtore</l>
+                  <l>Thoſe ſeemly Honours he enjoy'd before;</l>
+                  <l>The while the News the tattling Goddeſs bore</l>
+                  <l>In her ſwift flight to that unhappy place</l>
+                  <l>Where met the Fav'rites of the Wolviſh Race.</l>
+                  <l>Where a free vent was to their Poyſon given,</l>
+                  <l>They Curſt, they Bann'd, they Rail'd at Earth and Heaven.</l>
+                  <l>But who can tell the reſt— ſure none can tell,</l>
+                  <l>Unleſs they knew the wild Deſpair of Hell.</l>
+                  <l>When this was added, by the <hi>Monkey</hi> found,</l>
+                  <l>As <hi>Fame</hi> was buſie to divulge it round,</l>
+                  <l>Who mingling Truth with Lies, as 'tis her wont,</l>
+                  <l>Beyond what was indeed inlarg'd the account</l>
+                  <l>And told — (Ah that in this ſhe had been true!)</l>
+                  <l>The Generous <hi>Maſtives</hi> were converted too.</l>
+                  <l>Scarce was the rage of the <hi>Rebellious Crew</hi>
+                  </l>
+                  <l>More black, more deep, more hideous or ferine</l>
+                  <l>When late they heard the <hi>Wonders of the Boyne:</hi>
+                  </l>
+                  <l>When Troops of <hi>Wolves</hi> upon the diſtant ſide</l>
+                  <l>Did the <hi>young Lions</hi> Kingly wrath abide.</l>
+                  <pb n="13" facs="tcp:48056:15"/>
+                  <l>When all the <hi>Elements</hi> at once he ſtood,</l>
+                  <l>And paſs'd thro' Streams of Sweat, and Fire, and Blood,</l>
+                  <l>Whilſt the diſcolour'd Waves, a ghaſtly throng</l>
+                  <l>Bodies and Shields, and Helms promiſcuous roull'd along:</l>
+                  <l>He wins the <hi>Bank,</hi> amidſt their <hi>Troops</hi> he flies,</l>
+                  <l>Shoots Thunder from his <hi>Arms,</hi> and Lightning from his <hi>Eyes;</hi>
+                  </l>
+                  <l>They run, they fall, their well-known Bogs they find,</l>
+                  <l>And leave long faint departing yells behind.</l>
+                  <l>Scarce <hi>then</hi> more heartily than <hi>now</hi> they curſt,</l>
+                  <l>What help? the <hi>poiſonous Creatures</hi> elſe muſt burſt.</l>
+                  <l>They throw their ghaſtly flaming <hi>Eye balls</hi> round,</l>
+                  <l>And gnaſh their teeth, and laſh their ſides, and tare the ground.</l>
+                  <l>But moſt the <hi>Hound</hi> his Enmity expreſt,</l>
+                  <l>If poſſible, more <hi>mad</hi> than all the reſt;</l>
+                  <l>From his wide Jaws, with fury doubly red,</l>
+                  <l>He threw the <hi>poiſonous Foam,</hi> and thus he ſed.</l>
+               </lg>
+               <lg>
+                  <l>And has he baſely then thus left i'th' lurch,</l>
+                  <l>Our poor <hi>diſtreſſed perſecuted Church,</hi>
+                  </l>
+                  <l>So ſmall, ſo thin, ſo ſcorn'd by Beaſts and Men,</l>
+                  <l>Shut up within the <hi>corner of a Den?</hi>
+                  </l>
+                  <l>What Vengeance merits ſuch a foul diſgrace?</l>
+                  <l>Speak all ye <hi>Grandees of the Wolviſh Race!</hi>
+                  </l>
+                  <l>Ah! could I but my youthful <hi>Fangs</hi> regain,</l>
+                  <l>When warmth and fury flow'd in every vein,</l>
+                  <l>When like a <hi>Shaft</hi> I flew acroſs the Plain,</l>
+                  <l>And <hi>worry'd</hi> every <hi>Sheep</hi> that durſt but ſtray</l>
+                  <l>Beyond <hi>their</hi> bounds out of the <hi>Wolf</hi>'s High-way,</l>
+                  <l>Nor wou'd their <hi>Soveraigns Royal Will</hi> obey.</l>
+                  <l>Like <hi>Aeſons Age,</hi> cou'd mine renew-agen,</l>
+                  <l>I'd quickly leave this melancholy <hi>Den,</hi>
+                  </l>
+                  <l>And venture all my <hi>Teeth</hi> againſt his <hi>Pen.</hi>
+                  </l>
+                  <l>For not content <hi>alone</hi> t'Apoſtatize</l>
+                  <l>
+                     <hi>Others to damn</hi> for company, he trys.</l>
+                  <l>But ſince I've nought but <hi>will,</hi> ſay which of you</l>
+                  <l>Will with more <hi>ſtrength</hi> the Noble game purſue?</l>
+                  <l>Which will abate his Confidence and Pride?</l>
+               </lg>
+               <lg>
+                  <l>Up ſtarts the unlucky <hi>Ape,</hi> and thus reply'd,</l>
+                  <pb n="14" facs="tcp:48056:16"/>
+                  <l>By <hi>open War</hi> t'attempt him were but vain,</l>
+                  <l>Perhaps diſgrace and ſhame wou'd only gain</l>
+                  <l>Some cunning <hi>Stratagems</hi> more likely ſound,</l>
+                  <l>And I've the <hi>very</hi> way this moment found.</l>
+                  <l>Some pretty <hi>Picture</hi> wou'd the buſineſs do,</l>
+                  <l>His <hi>Name</hi> beneath expos'd to publick view,</l>
+                  <l>To which ſhall ſome <hi>Street-Rymer</hi> lend a Line or two.</l>
+                  <l>Think but how pleaſant ſuch a <hi>ſight</hi> appears;</l>
+                  <l>A <hi>Weeſels</hi> Trunk to a <hi>Horſes</hi> Creſt and Ears.</l>
+               </lg>
+               <lg>
+                  <l>I with this monſtrous ſight about will go,</l>
+                  <l>And be my ſelf the <hi>Zany</hi> to the ſhow:</l>
+                  <l>For I have <hi>Merry-Andrews</hi> tricks good ſtore,</l>
+                  <l>And will for this invent a thouſand more.</l>
+               </lg>
+               <lg>
+                  <l>A brutal <hi>Hum</hi> ran round the horrid <hi>Cave,</hi>
+                  </l>
+                  <l>And <hi>Acclamations</hi> to the project gave,</l>
+                  <l>Like that ſome <hi>Fury</hi> from the <hi>Daemons</hi> wins,</l>
+                  <l>When ſhe her <hi>hateful</hi> Voy'ge to Earth begins.</l>
+                  <l>Nor ſtay'd the <hi>Ape,</hi> but from the <hi>Cave</hi> did run,</l>
+                  <l>And ſoon his worſhipful deſign begun,</l>
+                  <l>Which to a Miracle he did atchieve,</l>
+                  <l>For 'tis a <hi>ſubtler Beaſt</hi> than you'd believe;</l>
+                  <l>Witty and wild, well verſt in female Arts,</l>
+                  <l>And is, to ſay the truth, a <hi>Brute of parts:</hi>
+                  </l>
+                  <l>Will ſhow a thouſand merry Tricks together,</l>
+                  <l>Will bound i'th' Air as light as Cork or Feather,</l>
+                  <l>Will vault or dance, or tumble, chuſe you whether;</l>
+                  <l>With his <hi>Rare Show</hi> he wanders up and down,</l>
+                  <l>By Pence apiece picks up full many a Crown,</l>
+                  <l>Amuſing each poor ſilly Country Clown:</l>
+                  <l>Perſwading them where er'e the fight was ſhown,</l>
+                  <l>'Twas a ſtrange Beaſt was lately come to Town.</l>
+                  <l>Thus far'd the vulgar, but the wiſer <hi>few,</hi>
+                  </l>
+                  <l>Who ſaw the <hi>ſigns of Wolviſh Craft</hi> all thro',</l>
+                  <l>Cou'd not but praiſe the <hi>Piece who er'e</hi> it made,</l>
+                  <l>And own he was the <hi>Maſter of his Trade.</hi>
+                  </l>
+                  <pb n="15" facs="tcp:48056:16"/>
+                  <l>A witty Thief, more cunning than his Fellows,</l>
+                  <l>Who, if 'twere poſſible would ſcape the Gallows,</l>
+                  <l>But none admired the Inventer's lucky Vein,</l>
+                  <l>Like thoſe <hi>ſuſpected of Sir</hi> Iſgrim<hi>'s Strain.</hi>
+                  </l>
+                  <l>They cluſter round in Troops, they laugh, they grin,</l>
+                  <l>Where e're the uncouth Monſter's to be ſeen.</l>
+                  <l>The <hi>Steeds</hi> true Friends with different paſſions gaz'd,</l>
+                  <l>Some griev'd, ſome ſmiled, theſe angry, thoſe amaz'd;</l>
+                  <l>Some ſpeedily took care to let him know</l>
+                  <l>That 'twas the <hi>unlucky Monkey</hi> dreſt him ſo.</l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nmov'd he ſtands, the unequal War diſowns,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor deigns a ſingle ſtroke to cruſh his Bones.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
